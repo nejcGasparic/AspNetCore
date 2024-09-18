@@ -3,6 +3,10 @@
 ## Visual Studio
 Docs file that has useful stuff about VisualStudio 2022.
 
+### Useful tools
+- [CSharpier](https://csharpier.com/docs/About) code formattor for C#
+- [AutoSave](https://github.com/hrai/auto-save-vs-extension)
+
 ### Shortcust
 - Build solution &rarr; <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Start without debugging &rarr; <kbd>Ctrl</kbd> + <kbd>F5</kbd>
